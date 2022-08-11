@@ -1,2 +1,2 @@
 # PythonBasics
-Basic Python Exercises
+Basic Python Projects
