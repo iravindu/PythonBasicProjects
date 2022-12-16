@@ -1,11 +1,11 @@
-#print("Enter a number?")
 import random
 
-
+# initializing an empty list to store the fibonacci series
 fibonacci = []
+
 n = int(input("Enter a number: "))
+
 for i in range(0,n):
-   #element = int(input("Enter an element : "))
    if i==0:
       element = 0
       fibonacci.append(element)
@@ -16,4 +16,6 @@ for i in range(0,n):
       element = fibonacci[i-1]+fibonacci[i-2]
       fibonacci.append(element)
          
+print("The corresponding fibonacci series")  
 print(fibonacci)   
+print("-----------------------------------")
