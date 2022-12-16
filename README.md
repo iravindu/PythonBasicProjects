@@ -14,3 +14,4 @@ The tariffs belong to 2022-June
 
 ## Factorial Finder
 Here you can enter any integer when prompted and it will return you the factorial of the input!
+[![Factorial Finder](factorial-finder.png)](https://github.com/iravindu/PythonBasicProjects/blob/main/factorialfinder.py)
