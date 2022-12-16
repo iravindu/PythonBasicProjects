@@ -9,4 +9,4 @@
 
 ## Electricity Bill Calculator
 
-[![Alt text for broken image link](ebill-calc.png)]([https://example.com](https://github.com/iravindu/PythonBasicProjects/blob/main/electricity.py)
+[![Alt text for broken image link](ebill-calc.png)](https://github.com/iravindu/PythonBasicProjects/blob/main/electricity.py)
