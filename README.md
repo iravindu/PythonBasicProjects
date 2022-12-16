@@ -8,5 +8,6 @@
 </ul>
 
 ## Electricity Bill Calculator
-
-[![Alt text for broken image link](ebill-calc.png)](https://github.com/iravindu/PythonBasicProjects/blob/main/electricity.py)
+This code contains a calculator to calculate the electricity bill of a Sri Lankan household.
+The tariffs belong to 2022-June
+[![Sri Lankan Electricity Bill Calculator](ebill-calc.png)](https://github.com/iravindu/PythonBasicProjects/blob/main/electricity.py)
