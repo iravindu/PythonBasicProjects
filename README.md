@@ -9,5 +9,8 @@
 
 ## Electricity Bill Calculator
 <a href="https://github.com/iravindu/PythonBasicProjects/blob/main/electricity.py" target="_blank">
-![My Image](ebill-calc.png)
+[![Alt text for broken image link](ebill-calc.png)]([https://example.com](https://github.com/iravindu/PythonBasicProjects/blob/main/electricity.py))
+<!--  
+  ![My Image](ebill-calc.png)
 </a>
+-->
