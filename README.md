@@ -10,7 +10,7 @@
 ## Electricity Bill Calculator
 This code contains a calculator to calculate the electricity bill of a Sri Lankan household.
 The tariffs belong to 2022-June
-[![Sri Lankan Electricity Bill Calculator](ebill-calc.png)](https://github.com/iravindu/PythonBasicProjects/blob/main/electricity.py)
+[![Sri Lankan Electricity Bill Calculator](.imgs/ebill-calc.png)](https://github.com/iravindu/PythonBasicProjects/blob/main/electricity.py)
 
 ## Factorial Finder
 Here you can enter any integer when prompted and it will return you the factorial of the input!
