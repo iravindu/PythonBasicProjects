@@ -1,4 +1,7 @@
 # PythonBasics
 Basic Python Projects
-• Fibonacci Series Generator
-• BMI Calculator
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
