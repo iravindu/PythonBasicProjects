@@ -1,5 +1,8 @@
+print("*****************************************")
+print("Sri Lankan Electricity Bill Calculator")
+print("*****************************************")
 units = float(input("Please enter your electricity units: "))
-
+print("------------------------------------------")
 slab1_rate = 7.85 * (1+2.64)
 slab2_rate = 10 * (1+2.11)
 slab3_rate = 27.75 * (1+1.25)
@@ -36,3 +39,5 @@ if int(units/32) == 1:
 if int(units/32) == 0:
     bill = "{:,}".format(slab1_rate * units)
     print("Your Bill Amount is : " +  str(bill))
+
+print("------------------------------------------")
