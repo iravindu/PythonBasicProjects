@@ -8,4 +8,5 @@
 </ul>
 
 ## Electricity Bill Calculator
-[(./ELECTRICITY BILL CALCULATOR.png)](https://github.com/iravindu/PythonBasicProjects/blob/main/ELECTRICITY%20BILL%20CALCULATOR.png)
+
+![My Image](ebill-calc.png)
